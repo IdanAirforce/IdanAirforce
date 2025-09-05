@@ -21,8 +21,8 @@ Hi there! I'm **Idan Elad**, a 17-year-old developer passionate about creating c
 Check out my other projects and experiments here on my GitHub profile! 😄
 
 ## 🌐 Let's Connect
-- 🌍 Website: https://idandev.com
+- 🌍 Website: www.oc-scripts.store
 - 💼 LinkedIn: Opening Soon
-- 👀 Discord: https://discord.gg/heZMp94EHR
+- 👀 Discord: discord.gg/wzaEmDVT3t
 
 ✨ _"Code is like magic; it turns ideas into reality."_ ✨
